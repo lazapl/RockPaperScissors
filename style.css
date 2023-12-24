@@ -1,0 +1,55 @@
+.card{
+    height: 100px;
+    width: 100px;
+    box-shadow: 0 0 12px 12px rgba(0, 0, 0, 0.1);
+    margin: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.card-verdicle{
+    display: flex;
+}
+.result{
+    text-align: center;
+    margin-top: 25px;
+}
+.overall-center{
+    text-align: center;
+    margin-top: 25px;
+}
+.container{
+    display: inline-block;
+}
+.ai{
+    margin-left: 50px;
+}
+.reload{
+    margin-top: 25px;
+    cursor: pointer;
+    display: none;
+}
+.reload-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cardQ{
+    margin-top: 25px;
+    cursor: pointer;
+    height: 50px;
+    width: 100px;
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.center-score{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.ai-score-content{
+    margin-left: 25px;
+}
